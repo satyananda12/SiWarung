@@ -5,7 +5,7 @@
 <div style="margin-bottom:20px;">
     <a href="{{ route('barang.index') }}" style="font-size:12px;color:var(--text-muted);text-decoration:none;display:inline-block;margin-bottom:10px;"><x-link-arrow direction="left" />Kembali ke Data Barang</a>
     <h1 style="font-size:18px;font-weight:600;color:var(--text-primary);">Tambah Barang Baru</h1>
-    <p style="font-size:13px;color:var(--text-secondary);margin-top:3px;">Isi semua informasi barang yang akan ditambahkan ke inventaris</p>
+    <p style="font-size:13px;color:var(--text-secondary);margin-top:3px;">Isi semua informasi barang yang akan ditambahkan ke persediaan</p>
 </div>
 
 <div style="max-width:700px;">

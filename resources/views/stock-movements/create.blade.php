@@ -7,7 +7,7 @@
     <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px;">
         <div>
             <h1 style="font-size:18px;font-weight:600;color:var(--text-primary);">Tambah Penyesuaian Stok</h1>
-            <p style="font-size:13px;color:var(--text-secondary);margin-top:3px;">Catat stok masuk atau keluar sebagai transaksi inventaris.</p>
+            <p style="font-size:13px;color:var(--text-secondary);margin-top:3px;">Catat stok masuk atau keluar sebagai transaksi persediaan.</p>
         </div>
     </div>
 </div>

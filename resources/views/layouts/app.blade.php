@@ -148,7 +148,7 @@
         </div>
 
         <div class="nav-section">
-            <div class="nav-label">Inventaris</div>
+            <div class="nav-label">Persediaan</div>
             <a href="{{ route('barang.index') }}" class="nav-item {{ request()->routeIs('barang.*') ? 'active' : '' }}">
                 <svg width="15" height="15" viewBox="0 0 16 16" fill="none"><rect x="1" y="5" width="14" height="9" rx="1.5" stroke="currentColor" stroke-width="1.3"/><path d="M5 5V3.5A2.5 2.5 0 0 1 8 1v0a2.5 2.5 0 0 1 3 2.5V5" stroke="currentColor" stroke-width="1.3"/></svg>
                 Data Barang

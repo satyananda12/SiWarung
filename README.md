@@ -1,6 +1,6 @@
 # SiWarung
 
-SiWarung adalah sistem informasi manajemen inventaris berbasis web untuk warung/toko kelontong skala mikro. Sistem ini dikembangkan sebagai Karya Terapan (Tugas Akhir) oleh **I Kadek Indra Satya Ananda** (NIM 2301020078, Program Studi Informatika, Primakara University), dan telah diimplementasikan serta dipakai secara operasional di **Warung Bu Ratih**.
+SiWarung adalah sistem informasi manajemen persediaan berbasis web untuk warung/toko kelontong skala mikro. Sistem ini dikembangkan sebagai Karya Terapan (Tugas Akhir) oleh **I Kadek Indra Satya Ananda** (NIM 2301020078, Program Studi Informatika, Primakara University), dan telah diimplementasikan serta dipakai secara operasional di **Warung Bu Ratih**.
 
 Fokus utama SiWarung adalah pencatatan stok berbasis batch dengan konsumsi **First In First Out (FIFO)**, sehingga harga pokok penjualan (HPP), laporan laba rugi, dan pemantauan barang mendekati kedaluwarsa dapat dihitung secara akurat per batch — bukan hanya berdasarkan rata-rata harga beli.
 
